@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XYZ",
+    " # ",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "irisyamod:silver_pickaxe"
+    },
+    "Y": {
+      "item": "irisyamod:silver_axe"
+    },
+    "Z": {
+      "item": "irisyamod:silver_shovel"
+    }
+  },
+  "result": {
+    "item": "irisyamod:silver_multitool"
+  }
+}

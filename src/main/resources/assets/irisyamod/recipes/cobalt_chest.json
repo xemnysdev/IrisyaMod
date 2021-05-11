@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X X",
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "irisyamod:cobalt"
+    }
+  },
+  "result": {
+    "item": "irisyamod:cobalt_chest"
+  }
+}

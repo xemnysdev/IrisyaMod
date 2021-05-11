@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XYZ",
+    " # ",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "irisyamod:irisium_pickaxe"
+    },
+    "Y": {
+      "item": "irisyamod:irisium_axe"
+    },
+    "Z": {
+      "item": "irisyamod:irisium_shovel"
+    }
+  },
+  "result": {
+    "item": "irisyamod:irisium_multitool"
+  }
+}

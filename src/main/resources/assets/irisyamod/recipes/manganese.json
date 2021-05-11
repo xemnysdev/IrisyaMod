@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "irisyamod:manganese_block"
+    }
+  },
+  "result": {
+    "item": "irisyamod:manganese",
+    "count": 9
+  }
+}

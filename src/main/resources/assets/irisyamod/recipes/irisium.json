@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "irisyamod:irisium_block"
+    }
+  },
+  "result": {
+    "item": "irisyamod:irisium",
+    "count": 9
+  }
+}

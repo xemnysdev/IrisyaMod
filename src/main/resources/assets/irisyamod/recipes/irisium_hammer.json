@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "YXY",
+    "YXY",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "irisyamod:irisium"
+    },
+    "Y": {
+      "item": "irisyamod:irisium_block"
+    }
+  },
+  "result": {
+    "item": "irisyamod:irisium_hammer"
+  }
+}

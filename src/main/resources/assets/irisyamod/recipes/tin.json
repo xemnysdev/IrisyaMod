@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "irisyamod:tin_block"
+    }
+  },
+  "result": {
+    "item": "irisyamod:tin",
+    "count": 9
+  }
+}
