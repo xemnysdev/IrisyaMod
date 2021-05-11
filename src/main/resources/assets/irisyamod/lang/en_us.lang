@@ -1,0 +1,124 @@
+#######
+#ITEMS#
+#######
+
+//Ores
+item.irisyamod:silver.name=Silver Ingot
+item.irisyamod:cobalt.name=Cobalt Ingot
+item.irisyamod:irisium.name=Irisium Ingot
+item.irisyamod:galaxine_shard.name=Galaxine Shard
+item.irisyamod:galaxine.name=Galaxine Ingot
+//Weapons
+item.irisyamod:silver_sword.name=Silver Sword
+item.irisyamod:cobalt_sword.name=Cobalt Sword
+item.irisyamod:irisium_sword.name=Irisium Sword
+item.irisyamod:galaxine_sword.name=Galaxine Sword
+//Pickaxes
+item.irisyamod:silver_pickaxe.name=Silver Pickaxe
+item.irisyamod:cobalt_pickaxe.name=Cobalt Pickaxe
+item.irisyamod:irisium_pickaxe.name=Irisium Pickaxe
+item.irisyamod:galaxine_pickaxe.name=Galaxine Pickaxe
+//Axes
+item.irisyamod:silver_axe.name=Silver Axe
+item.irisyamod:cobalt_axe.name=Cobalt Axe
+item.irisyamod:irisium_axe.name=Irisium Axe
+item.irisyamod:galaxine_axe.name=Galaxine Axe
+//Shovels
+item.irisyamod:silver_shovel.name=Silver Shovel
+item.irisyamod:cobalt_shovel.name=Cobalt Shovel
+item.irisyamod:irisium_shovel.name=Irisium Shovel
+//Armors
+item.silver_helmet.name=Silver Helmet
+item.silver_chest.name=Silver Chestplate
+item.silver_legg.name=Silver Leggings
+item.silver_boots.name=Silver Boots
+
+item.cobalt_helmet.name=Cobalt Helmet
+item.cobalt_chest.name=Cobalt Chestplate
+item.cobalt_legg.name=Cobalt Leggings
+item.cobalt_boots.name=Cobalt Boots
+
+item.irisium_helmet.name=Irisium Helmet
+item.irisium_chest.name=Irisium Chestplate
+item.irisium_legg.name=Irisium Leggings
+item.irisium_boots.name=Irisium Boots
+
+item.galaxine_helmet.name=Galaxine Helmet
+item.galaxine_chest.name=Galaxine Chestplate
+item.galaxine_legg.name=Galaxine Leggings
+item.galaxine_boots.name=Galaxine Boots
+//MultiTool
+item.silver_multitool.name=Silver MultiTool
+item.cobalt_multitool.name=Cobalt MultiTool
+item.irisium_multitool.name=Irisium MultiTool
+//Hammer
+item.silver_hammer.name=Silver Hammer
+item.cobalt_hammer.name=Cobalt Hammer
+item.irisium_hammer.name=Irisium Hammer
+//Seeds
+item.irisyamod:oats_seed.name=Oats Seed
+item.irisyamod:rye_seed.name=Rye Seed
+item.irisyamod:rice_seed.name=Rice Seed
+item.irisyamod:corn_seed.name=Corn Seed
+//Drops Crops
+item.irisyamod:oats.name=Oats
+item.irisyamod:rye.name=Rye
+item.irisyamod:rice.name=Rice
+item.irisyamod:corn.name=Corn
+//Seeds Crops
+item.irisyamod:silverite_seed.name=Silverite Seed
+item.irisyamod:cobaltine_seed.name=Cobaltine Seed
+item.irisyamod:irisite_seed.name=Irisite Seed
+item.irisyamod:galaxite_seed.name=Galaxite Seed
+//Farms
+item.irisyamod:magical_coal.name=Magical Coal
+item.irisyamod:fertilizers.name=Fertilizers
+item.irisyamod:watering_can.name=Watering Can
+//Ores Miner
+item.irisyamod:copper.name=Copper Ingot
+item.irisyamod:tin.name=Tin Ingot
+item.irisyamod:manganese.name=Manganese Ingot
+item.irisyamod:pyrite.name=Pyrite Ingot
+//Refined Ores
+item.irisyamod:refined_copper.name=Refined Copper
+item.irisyamod:refined_tin.name=Refined Tin
+item.irisyamod:refined_manganese.name=Refined Manganese
+item.irisyamod:refined_pyrite.name=Refined Pyrite
+
+########
+#BLOCKS#
+########
+
+//Ores
+tile.irisyamod:silver_ore.name=Silver Ore
+tile.irisyamod:cobalt_ore.name=Cobalt Ore
+tile.irisyamod:irisium_ore.name=Irisium Ore
+//Blocks Ores
+tile.irisyamod:silver_block.name=Silver Block
+tile.irisyamod:cobalt_block.name=Cobalt Block
+tile.irisyamod:irisium_block.name=Irisium Block
+//Crops
+tile.silverite_crop.name=Silverite Crop
+tile.cobaltine_crop.name=Cobaltine Crop
+tile.irisite_crop.name=Irisite Crop
+tile.galaxite_crop.name=Galaxite Crop
+//Farms
+tile.irisyamod:composter.name=Composter
+//Ores Miner
+tile.irisyamod:copper_ore.name=Copper Ore
+tile.irisyamod:tin_ore.name=Tin Ore
+tile.irisyamod:manganese_ore.name=Manganese Ore
+tile.irisyamod:pyrite_ore.name=Pyrite Ore
+//Block Ores Miner
+tile.irisyamod:copper_block.name=Copper Block
+tile.irisyamod:tin_block.name=Tin Block
+tile.irisyamod:manganese_block.name=Manganese Block
+tile.irisyamod:pyrite_block.name=Pyrite Block
+
+########
+#OTHERS#
+########
+
+itemGroup.irisya_tab=Irisya Mod
+menu.siteweb=Site Web
+menu.localserver=Irisya-PvP

@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "irisyamod:composter" },
+        "facing=south": { "model": "irisyamod:composter", "y": 180 },
+        "facing=west":  { "model": "irisyamod:composter", "y": 270 },
+        "facing=east":  { "model": "irisyamod:composter", "y": 90 }
+    }
+}
