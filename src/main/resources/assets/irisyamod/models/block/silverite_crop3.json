@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "irisyamod:blocks/silverite_crop3"
+    }
+}

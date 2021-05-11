@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "irisyamod:blocks/rice_crop3"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "irisyamod:blocks/composter_side",
+        "down": "irisyamod:blocks/composter_bottom",
+        "up": "irisyamod:blocks/composter_top",
+        "north": "irisyamod:blocks/composter_side",
+        "east": "irisyamod:blocks/composter_side",
+        "south": "irisyamod:blocks/composter_side",
+        "west": "irisyamod:blocks/composter_side"
+    }
+}

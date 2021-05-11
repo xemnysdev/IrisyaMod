@@ -1,0 +1,8 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "irisyamod:blocks/alloy_fabricator_top",
+        "front": "irisyamod:blocks/alloy_fabricator",
+        "side": "irisyamod:blocks/alloy_fabricator_side"
+    }
+}

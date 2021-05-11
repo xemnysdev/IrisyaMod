@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "irisyamod:blocks/irisite_crop2"
+    }
+}
